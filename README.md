@@ -9,10 +9,10 @@
 
 -----
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ Contact Me</summary>
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
+    <h2 align="center">Feel free to reach out:</h2>
     
    <p align="center">
       <br/>
@@ -37,10 +37,10 @@
   
   
 <details>
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>💻 GitHub Profile Details</summary>
   <div>
-  <samp>
-    <h2 align="center"> Github stats
+    <samp>
+      <h2 align="center"> GitHub Profile Details</h2>
     <br/>
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oskarkarol&theme=2077)    
@@ -50,18 +50,15 @@
     
 
 <details>
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
-  <br/>
-    
-    
-    
-  <h2 align="center"> latest contribution </h2>
-    
+  <summary>📈 Latest Activity</summary>
+  <samp>    
+        
+  <h2 align="center">Contribution Graph</h2>
+   
+        
   <img alt="oskarkarols's Activity Graph"
        src="https://github-readme-activity-graph.vercel.app/graph?username=oskarkarol&bg_color=ffffff&color=000000&line=00f900&point=000000&area=true&hide_border=true" /></a>
         
-<br/>
   </samp>
   </details>
   
